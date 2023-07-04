@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelListingAPI", "HotelListingAPI.csproj", "{618FF992-93F4-4BEB-8925-A6572D0E7A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelListingMinimalAPI", "..\HotelListingMinimalAPI\HotelListingMinimalAPI.csproj", "{77123822-6DE9-490F-82C4-1D2EA8A133EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{618FF992-93F4-4BEB-8925-A6572D0E7A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{618FF992-93F4-4BEB-8925-A6572D0E7A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{618FF992-93F4-4BEB-8925-A6572D0E7A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{618FF992-93F4-4BEB-8925-A6572D0E7A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77123822-6DE9-490F-82C4-1D2EA8A133EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77123822-6DE9-490F-82C4-1D2EA8A133EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77123822-6DE9-490F-82C4-1D2EA8A133EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77123822-6DE9-490F-82C4-1D2EA8A133EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6E86C9-715D-41B6-B95F-DA71E953C5D3}
+	EndGlobalSection
+EndGlobal
